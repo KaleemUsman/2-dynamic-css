@@ -1,10 +1,11 @@
-import HomeContent from "@/components/HomeContent";
 
+import HeroSection from "./components/HomeContents";
 
 export default function Home() {
   return (
-    <div className="bg-gray-50 min-h-screen flex flex-col">
-      <HomeContent />
+    <div>
+      <HeroSection />
+    
     </div>
   );
 }

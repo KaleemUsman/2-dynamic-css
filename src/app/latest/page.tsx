@@ -1,6 +1,4 @@
 import React from 'react'
-import 'animate.css';
-
 
 const latest = () => {
   return (
